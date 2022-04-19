@@ -1,4 +1,5 @@
-# **About**
+# Jonathan Lee - Mathematics and Economics Student Portfolio
+  ## **About**
   
   Hi, I’m Jonathan. I'm currently a Mathematics & Economics student at Western Washington University. 
   During my studies, I have acquired technical skills with Rstudio and a deep understanding of Excel. 
@@ -17,4 +18,12 @@
   This is a repository to showcase analytical skills and share recent projects.
   
   ## **Table of Contents**
-  
+  - #### [**About**](#about)
+  - #### [Portfolio Projects](#portfolio-projects)
+    - #### [Real Estate Appraisal Analysis](#real-estate-appraisal-analysis)
+    - #### [Workshop 4](#workshop-4)
+    - #### [Final Paper](#final-paper)
+ 
+  ## **Porfolio Projects**
+   #### **Real Estate Appraisal Analysis**
+   Code: [https://github.com/JONATHAN-LEE-01/Real-Estate-Appraisal-Analysis/blob/main/.gitignore]

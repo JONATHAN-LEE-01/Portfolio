@@ -36,11 +36,11 @@
 The second workshop in Math 342 (Probability and Statistical Inferences). This data, which was pulled from the paper *"Using Multiple Regression Analysis in Real Estate Appraisal"* (*Appraisal Journal* [2002]:424-430), contains sale price, size, and land-to-building ratio for 10 large industrial properties. This assignment is guided with the following steps: separate the data into two categories (price and size), make a scatterplot and obtain correlation coefficient, calculate least-sums estimates, run an ANOVA table to perform F-test, construct a 95% confidence interval, make a scatterplot of the residuals to check for constant variance and linearity, plot the normal Q-Q and run the Wilk-Shapiro testto check if the normality assumption is satisfied, graph the standardized residuals with boundaries to identify possible outliers, and plot the leverage values with boundaries to identify influential observations. 
 
    #### **Salaries for Professors**
-   **Code:** [`Appraisal_Code.R`](https://github.com/JONATHAN-LEE-01/About/blob/main/Appraisal%20Code.R)
-   **Presentation:** [`Appraisal_Analysis.pdf`](https://github.com/JONATHAN-LEE-01/About/blob/main/Appraisal_Analysis.pdf)
+   **Code:** [`Professor_Salaries.R`]()
+   **Presentation:** [`Professor_Salaries`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Professor_Salaries.pdf)
    
    **Description:** 
-The second workshop in Math 342 (Probability and Statistical Inferences). This data, which was pulled from the paper *"Using Multiple Regression Analysis in Real Estate Appraisal"* (*Appraisal Journal* [2002]:424-430), contains sale price, size, and land-to-building ratio for 10 large industrial properties. This assignment is guided with the following steps: separate the data into two categories (price and size), make a scatterplot and obtain correlation coefficient, calculate least-sums estimates, run an ANOVA table to perform F-test, construct a 95% confidence interval, make a scatterplot of the residuals to check for constant variance and linearity, plot the normal Q-Q and run the Wilk-Shapiro testto check if the normality assumption is satisfied, graph the standardized residuals with boundaries to identify possible outliers, and plot the leverage values with boundaries to identify influential observations. 
+The fourth workshop in Math 342. 
 
    #### **Final Project (Correlations Between House Features and Price in King County)**
    **Code:** [`Final_Paper.R`](https://github.com/JONATHAN-LEE-01/About/blob/main/Final_Paper.R)

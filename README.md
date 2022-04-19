@@ -1,4 +1,4 @@
-# Jonathan Lee - Mathematics and Economics Student Portfolio
+# Jonathan Lee - Mathematics and Economics Student
   ## **About**
   
   Hi, I’m Jonathan. I'm currently a Mathematics & Economics student at Western Washington University. 

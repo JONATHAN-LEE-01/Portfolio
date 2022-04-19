@@ -22,7 +22,7 @@
   - ### [Portfolio Projects](#portfolio-projects)
     + [Math 342 Assignments](#math-342-assignments)
     + [Real Estate Appraisal Analysis](#real-estate-appraisal-analysis)
-    + [Workshop 4](#workshop-4)
+    + [Salaries for Professors](#salaries-for-professors)
     + [Final Paper](#final-paper)
   - #### [Excel]
  
@@ -36,11 +36,11 @@
 The second workshop in Math 342 (Probability and Statistical Inferences). This data, which was pulled from the paper *"Using Multiple Regression Analysis in Real Estate Appraisal"* (*Appraisal Journal* [2002]:424-430), contains sale price, size, and land-to-building ratio for 10 large industrial properties. This assignment is guided with the following steps: separate the data into two categories (price and size), make a scatterplot and obtain correlation coefficient, calculate least-sums estimates, run an ANOVA table to perform F-test, construct a 95% confidence interval, make a scatterplot of the residuals to check for constant variance and linearity, plot the normal Q-Q and run the Wilk-Shapiro testto check if the normality assumption is satisfied, graph the standardized residuals with boundaries to identify possible outliers, and plot the leverage values with boundaries to identify influential observations. 
 
    #### **Salaries for Professors**
-   **Code:** [`Professor_Salaries.Rmd`]()
+   **Code:** [`Professor_Salaries.Rmd`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Professor_Salaries.Rmd)
    **Presentation:** [`Professor_Salaries`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Professor_Salaries.pdf)
    
    **Description:** 
-The fourth workshop in Math 342. 
+The fourth workshop in Math 342. The dataset consists of the 2008-2009 nine-month academic salary for Assistant Professors, Associate Professors, and Professors in a college in the U.S. This data was analyzed to monitor salary differences between male and female faculty members. The workshop follows theses steps in exact order: attach and display head of *"Salaries"* dataset, create dummy and indicator variables to separate rank, sex, and discipline, fit full model using only dummy and indicator variables to check overal model significance, interpret coefficients and explain anomalies, perform stepwise regression to accquire predictors of the final model, construct a 95% prediction interval female associate professors in the applied department with 8 years of service and 10 years after PhD, perform diagnostic check of final model, identify outliers or influential points, plot normal Q-Q, run Wilk-Shapiro test to test for linearity, constant variance and normality.
 
    #### **Final Project (Correlations Between House Features and Price in King County)**
    **Code:** [`Final_Paper.Rmd`](https://github.com/JONATHAN-LEE-01/About/blob/main/Final_Paper.R)

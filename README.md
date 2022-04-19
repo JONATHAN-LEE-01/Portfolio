@@ -26,4 +26,4 @@
  
   ## **Porfolio Projects**
    #### **Real Estate Appraisal Analysis**
-   Code: [Appraisal_Code](https://github.com/JONATHAN-LEE-01/Real-Estate-Appraisal-Analysis/blob/main/.gitignore)
+   Code: [Appraisal_Code.R](https://github.com/JONATHAN-LEE-01/Real-Estate-Appraisal-Analysis/blob/e22b9bd1eb775d7dc1884d3d15f010c731373608/.gitignore)

@@ -36,7 +36,7 @@
 The second workshop in Math 342 (Probability and Statistical Inferences). This data, which was pulled from the paper *"Using Multiple Regression Analysis in Real Estate Appraisal"* (*Appraisal Journal* [2002]:424-430), contains sale price, size, and land-to-building ratio for 10 large industrial properties. This assignment is guided with the following steps: separate the data into two categories (price and size), make a scatterplot and obtain correlation coefficient, calculate least-sums estimates, run an ANOVA table to perform F-test, construct a 95% confidence interval, make a scatterplot of the residuals to check for constant variance and linearity, plot the normal Q-Q and run the Wilk-Shapiro testto check if the normality assumption is satisfied, graph the standardized residuals with boundaries to identify possible outliers, and plot the leverage values with boundaries to identify influential observations. 
 
    #### **Salaries for Professors**
-   **Code:** [`Professor_Salaries.Rmd`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Professor_Salaries.Rmd)
+   **Code:** [`Professor_Code.Rmd`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Professor_Salaries.Rmd)
    **Presentation:** [`Professor_Salaries`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Professor_Salaries.pdf)
    
    **Description:** 

@@ -42,10 +42,10 @@
 The fourth workshop in Math 342. The dataset consists of the 2008-2009 nine-month academic salary for Assistant Professors, Associate Professors, and Professors in a college in the U.S. This data was analyzed to monitor salary differences between male and female faculty members. The workshop follows theses steps in exact order: attach and display head of *"Salaries"* dataset, create dummy and indicator variables to separate rank, sex, and discipline, fit full model using only dummy and indicator variables to check overal model significance, interpret coefficients and explain anomalies, perform stepwise regression to accquire predictors of the final model, construct a 95% prediction interval female associate professors in the applied department with 8 years of service and 10 years after PhD, perform diagnostic check of final model, identify outliers or influential points, plot normal Q-Q, run Wilk-Shapiro test to test for linearity, constant variance and normality.
 
    ### **Final Project** Correlations Between House Features and Price in King County
-   #### **Code:** [`Final_Paper.Rmd`](https://github.com/JONATHAN-LEE-01/About/blob/main/Final_Paper.R) **Presentation:** [`Appraisal_Analysis.pdf`](https://github.com/JONATHAN-LEE-01/About/blob/main/Math%20342%20Final%20Paper.pdf) **Tableau Public:** [Final Project Dashboard](https://public.tableau.com/app/profile/jonathan.lee8070/viz/UnexploredDatainCorrelationsBetweenHouseFeaturesandPriceinKingCounty/Correlations_1)
+   #### **Code:** [`Final_Project.Rmd`](https://github.com/JONATHAN-LEE-01/About/blob/main/Final_Paper.R) **Presentation:** [`Appraisal_Analysis.pdf`](https://github.com/JONATHAN-LEE-01/About/blob/main/Math%20342%20Final%20Paper.pdf) **Tableau Public:** [`Final Project Dashboard`](https://public.tableau.com/app/profile/jonathan.lee8070/viz/UnexploredDatainCorrelationsBetweenHouseFeaturesandPriceinKingCounty/Correlations_1)
       
    **Description:** 
-   The final project in Math 342. This paper 
+   The final project in Math 342. The dataset was pulled from [kaggle.com](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). For this assignment, we were to find a dataset collected from the real world and construct a hypothesis on what/if we can predict with the data. There were 21614 samples in the dataset with each sample including 21 observations. The assignment followed 
    
    ## **Contact**
    - E-mail: leej207@wwu.edu

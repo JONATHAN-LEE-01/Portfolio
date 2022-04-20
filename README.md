@@ -48,5 +48,10 @@ The fourth workshop in Math 342. The dataset consists of the 2008-2009 nine-mont
    The final project in Math 342. The dataset was pulled from [kaggle.com](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). For this assignment, we were to find a dataset collected from the real world and construct a hypothesis and the best fit prediction model. There were 21614 samples in the dataset with each sample including 21 observations. Our process was as follows: find dataset with a certain amount of quantitative and categorical predictors, apply exploratory data analysis techniques to clean dataset, construct our hypothesis: *"we are relatively confident that the price of homes can be predicted (given certain home characteristics",* apply regression analysis techniques such as creating dummy variables, fit full and reduced models, run ANOVA table, run a correlation matrix of predictors, test for normality/constant variance, plot leverage and residual values, accquire best subset model, construct 95% prediction and confidence intervals, test model using a random sample, and write up paper. 
    In the *"Regression Analysis"* section, it discussed the process of data cleaning and removing certain predictors due to lack of information or quantitative value despite us having assumptions that they could affect our accuary of our model. I took the removed predictors and graphed them against price and applied trend lines in order to confirm our assumptions of correlation in predicting price. In a future model, I plan to incorporate this data into our best fit model in order to shrink our confidence interval.
    
+   ### **Personal Expenses Excel**
+   #### **File:** [Expenses.xlsx](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.xlsx)
+   **Description:**
+   
+   
    ## **Contact**
    - E-mail: leej207@wwu.edu

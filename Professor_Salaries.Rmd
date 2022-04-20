@@ -19,30 +19,30 @@ The variables collected include the following: rank (AssocProf, AsstProf, Prof),
 The dataset can be accessed from the car package in R, stored as Salaries. Your task is to determine the best model to predict salaries.
 
 ### a. Attach the Salaries dataset and save it under the variable data. Print the first few observations in the dataset.
-```
+```{r}
 attach(Salaries)
 data = Salaries
 head(data)
 ```
 
 ### b. Create dummy variables for the rank variable using the following coding scheme: rank1 = 1 if Professor, 0 otherwise, rank2 = 1 if Associate Professor, 0 otherwise. Store these variables in the data.
-```
+```{r}
 data$AssocProf = ifelse(data$rank=="AssocProf",1,0)
 data$Prof = ifelse(data$rank=="Prof",1,0)
 ```
 
 ### c. Create an indicator variable for sex using the following coding scheme: sex1 = 1 if Male, 0 if Female. Add this variable in the data.
-```
+```{r}
 data$sex1 = ifelse(data$sex=="Male",1,0)
 ```
 
 ### d. Create an indicator variable for discipline variable using the following coding scheme: disc = 1 if A, 0 if B. Add this variable in the data.
-```
+```{r}
 data$disc = ifelse(data$discipline=="A", 1, 0)
 ```
 
 ### e. Fit the full model to the data using only the newly created dummy variables and indicator variables, years since phd, and years of service to predict salary. Print the coefficients column and use the output to determine if the overall model is significant. If it is, test the significance of each coefficient.
-```
+```{r}
 head(data)
 model = lm(salary ~ yrs.since.phd + yrs.service + sex1 + disc + AssocProf + Prof, data=data)
 summary(model)
@@ -51,40 +51,40 @@ summary(model)
 
 ### f. Interpret the coefficients for rank1, rank2, and disc.
 
-#Based on the coefficients in rank1, rank2, and disc. We can see that on average if the person is a professor,he or she will make about 45066.0 more than the base pay. Associate Professors on average make 12907.60more than the base pay. Discipline A on average makes 14417.6 less than discipline B.
+Based on the coefficients in rank1, rank2, and disc. We can see that on average if the person is a professor,he or she will make about 45066.0 more than the base pay. Associate Professors on average make 12907.60more than the base pay. Discipline A on average makes 14417.6 less than discipline B.
 
 ### g. Interpret the coefficients of the numerical predictors.
 
-#For the numerical predictors yrs.since.phd, we can see that the longer the time the person has acquired theirphd, they tend to make on average 535.1 dollars more than the base pay. For yrs.service, we can see that longer services tend to make 489.5 dollars less.
+For the numerical predictors yrs.since.phd, we can see that the longer the time the person has acquired theirphd, they tend to make on average 535.1 dollars more than the base pay. For yrs.service, we can see that longer services tend to make 489.5 dollars less.
 
 
 ### h. The coefficient for the years of service indicates a decrease in salary as the number of years of service increases. Does it make sense for the slope of this variable to be negative? What do you think caused this scenario?
 
-#The negative slope of this variable seems to be balanced out by the years since phd. This could be caused by the scenario of staying stagnant in a job pays you less over time than changing jobs.
+The negative slope of this variable seems to be balanced out by the years since phd. This could be caused by the scenario of staying stagnant in a job pays you less over time than changing jobs.
 
 
 ### i. Based on the p-value from the coefficients table, is there a difference in salary between male and female professors? Why or why not?
 
-#Based on the p-value from the coefficients table, there seems to be lack of evidence to prove that there is a significant difference between male and female professors since the p-value of sex1 is less than 0.05.
+Based on the p-value from the coefficients table, there seems to be lack of evidence to prove that there is a significant difference between male and female professors since the p-value of sex1 is less than 0.05.
 
 
 ### j. Perform stepwise regression using the full model in part e as input, with $\alpha_{in} = 0.15$ and $\alpha_{out} = 0.15$. What are the predictors in the final model? 
-```
+```{r}
 ols_step_both_p(model, pent=0.15)
 ```
 #The predictors in the final model are Prof, AssocProf, and disc.
 
 ### k. Perform best subset regression using the full model in part e as input. Specify the predictors in the best model selected using these criteria: $r^2_{adj}$, $r^2_{PRED}$, $C_p$, AIC, and SBC.
-```
+```{r}
 ols_step_best_subset(model)
 ```
-#Based on Rˆ2 adj, model 6 is the better fit because its Rˆ2 adj is the highest. Based on Rˆ2 pred, model 4 isthe better fit because its Rˆ2 pred is the highest. Based on c(p), model 5 is the better fit because its c(p) isthe lowest. Based on AIC, model 5 is the better fit because its AIC is the lowest. Based on SBC, model 3 is the better fit because its SBC is the lowest.
+Based on Rˆ2 adj, model 6 is the better fit because its Rˆ2 adj is the highest. Based on Rˆ2 pred, model 4 isthe better fit because its Rˆ2 pred is the highest. Based on c(p), model 5 is the better fit because its c(p) isthe lowest. Based on AIC, model 5 is the better fit because its AIC is the lowest. Based on SBC, model 3 is the better fit because its SBC is the lowest.
 
 ### l. Which model would you recommend to use and why?
-#I would recommend to use model 5 because it was proven to be a better fit twice based on c(p) and AIC. We also had already determined that sex was not a significant variable in the dataset in predicting salaries while the other variables were significant.
+I would recommend to use model 5 because it was proven to be a better fit twice based on c(p) and AIC. We also had already determined that sex was not a significant variable in the dataset in predicting salaries while the other variables were significant.
 
 ### m. Based on the model you selected, construct a 95\% prediction interval for a female associate professor in the applied department with 8 years of service and 10 years after PhD. Note: Use the values only for the predictors in your final model.
-```
+```{r}
 sex1 = 0 yrs.service = 8 yrs.since.phd = 10
 model5 = lm(salary ~ yrs.since.phd + yrs.service + disc + AssocProf + Prof, data=data)
 new = data.frame(sex1 = c(1), disc = c(0), yrs.service = c(8), yrs.since.phd = c(10), AssocProf = c(1), predict(model5, new)
@@ -92,7 +92,7 @@ predict(model5, new, interval = "prediction")
 ```
 
 ### n. Perform diagnostic checking on your final model. Identify if there's any outliers or influential observations in the dataset using the model you selected. 
-```
+```{r}
 ei = model5$residuals
 par(mfrow= c(2,1))
 plot(data$yrs.since.phd, ei)

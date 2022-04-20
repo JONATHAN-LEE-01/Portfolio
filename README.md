@@ -23,16 +23,16 @@
   
   ---
   ## **Table of Contents**
-  - ### [About](#about)
-  - ### [Portfolio Projects](#portfolio-projects)
+  - [About](#about)
+  - [**Portfolio Projects**](#portfolio-projects)
     + [Real Estate Appraisal Analysis](#real-estate-appraisal-analysis)
     + [Analysis of Descrepancies in Professor Salaries](#analysis-of-descrepancies-in-professor-salaries)
-    + [Final Paper](#final-project-correlations-between-house-features-and-price-in-king-county)
+    + [Final Project Correlations Between House Features and Price in King County](#final-project-correlations-between-house-features-and-price-in-king-county)
     + [Personal Monthly Expense Excel](#personal-monthly-expense-excel)
-  - ### [**Resume**](#resume)
-  - ### [**Contact**](#contact)
+  - [**Resume**](#resume)
+  - [**Contact**](#contact)
  
-  ## **Porfolio Projects**
+  ## **Portfolio Projects**
    ### **Real Estate Appraisal Analysis**
   <br />**Code:** [`Appraisal_Code.Rmd`](https://github.com/JONATHAN-LEE-01/About/blob/main/Appraisal%20Code.R) 
   <br />**Presentation:** [`Appraisal_Analysis.pdf`](https://github.com/JONATHAN-LEE-01/About/blob/main/Appraisal_Analysis.pdf)
@@ -59,10 +59,15 @@
    <br />**Description:**
    <br /> &nbsp; &nbsp; &nbsp; &nbsp; As I mentioned above, I have an strong interest in personal finance. Achieving and maintaining financial independence with minimal to no debts has been a goal of mine since I was in elementary school. Using my experience in Excel, I built a personal monthly expense tracker to help me visualize my spending to ensure that I am on track to save every month. This Excel file is not meant to categorize all of my purchases but rather be a general summary of my income vs my expenses. This project includes table formatting, conditional formatting, sparklines, and a pie chart using multiple series. Once more data on my expenses are collected, I plan to incorporate detailed breakdowns of each section in my summary and credit card statements using .csv files, an annual summary sheet, and utilize more percentage functions.
    
-   ---
+   
    ## **Resume** 
    [`Jonathan_Lee_Resume.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Jonathan_Lee_Resume.pdf)
-  
+  <br />
+  <br />
+  <br />
   ---
    ## **Contact**
    - E-mail: leej207@wwu.edu
+   <br />
+   <br />
+   <br />

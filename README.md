@@ -4,7 +4,7 @@
   
    Hi, I’m Jonathan. I'm currently a Mathematics & Economics student at Western Washington University. 
   <br />My personal interests include everything bike related, building PC's, custom keyboards, audio engineering, physics and personal finance.
-  <br />During my studies, I have acquired technical skills in Rstudio and a deep understanding of Excel.
+  <br />During my studies, I have acquired technical skills in Rstudio, Tableau, and a deep understanding of Excel.
   <br />My knowledge of data analytics includes but is not limited to:
 
  - data gathering/cleaning

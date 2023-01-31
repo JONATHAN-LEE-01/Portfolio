@@ -7,17 +7,25 @@
   <br />During my studies, I have acquired technical skills in Rstudio, Tableau, and a deep understanding of Excel.
   <br />My knowledge of data analytics includes but is not limited to:
 
- - data gathering/cleaning
- - data assessing/visualization
- - probability
- - conditional probability
- - binomial distribution
- - Central Limit Theorem
- - confidence intervals
- - hypothesis testing
- - multiple linear regression
- 
+ - Probability and Statistical Inferences:
+   - Multiple Linear Regression
+   - Binomial Distribution
+   - T-Distribution
+   - F-Distribution
+   - Chi-Squared Distribution
+   - Conditional Probability
    
+ - Econometrics:
+   - Gaussian Distribution
+   - Generalized Least Squares
+   - White's Test/Correction
+   - Weighted Least Squares
+   - Run's Test
+   - Durbin-Watson Autocorrelation Test
+   - Cochrane-Orcutt Procedure
+ 
+ - Data Cleaning
+ - Data Visualization
  I am currently expanding my mathematical and computer science comprehension in Linear Algebra and Python.
   <br />This is a repository to showcase analytical skills and share recent projects.
   

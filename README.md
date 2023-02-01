@@ -66,7 +66,7 @@
 
  ## **Econometrics Projects**
   ### **Homework 2**
- <br />**PDF:** [`Homework 2`](https://github.com/JONATHAN-LEE-01/About/blob/main/Final_Paper.R)
+ <br />**PDF:** [`Homework 2`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/7d515352d776c19ea39ae84796d604421d296e87/Hw2.pdf)
   <br />**Description:** 
   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. The assignment provided me with insight on how heteroskedasticity errors in our regression can influence our model. Further on in the assignment I apply the Park's Test, White's Test, WLS corrections and FGLS re-estimations.
 

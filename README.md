@@ -26,7 +26,7 @@
  
  - Data Cleaning
  - Data Visualization
- I am currently expanding my mathematical and computer science comprehension in Linear Algebra and Python.
+ - I am currently expanding my mathematical and computer science comprehension in Linear Algebra and Python.
   <br />This is a repository to showcase analytical skills and share recent projects.
   
   ---

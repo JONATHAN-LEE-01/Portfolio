@@ -4,7 +4,7 @@
   
    Hi, I’m Jonathan. I'm currently a Mathematics & Economics student at Western Washington University. 
   <br />My personal interests include everything bike related, building PC's, custom keyboards, audio engineering, physics and personal finance.
-  <br />During my studies, I have acquired technical skills in Rstudio, Tableau, and a deep understanding of Excel.
+  <br />During my studies, I have acquired technical skills in Stata, Rstudio, Tableau, and a deep understanding of Excel.
   <br />My knowledge of data analytics includes but is not limited to:
 
  - Probability and Statistical Inferences:
@@ -26,7 +26,7 @@
  
  - Data Cleaning
  - Data Visualization
- - I am currently expanding my mathematical and computer science comprehension in Linear Algebra and Python.
+ - I am currently expanding my mathematical and computer science comprehension in Differential Equations.
   <br />This is a repository to showcase analytical skills and share recent projects.
   
   ---

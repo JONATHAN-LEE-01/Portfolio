@@ -67,6 +67,7 @@
  ## **Econometrics Projects**
   ### **Homework 2**
  <br />**PDF:** [`Homework 2`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/7d515352d776c19ea39ae84796d604421d296e87/Hw2.pdf)
+ <br />**Do-File:** [`HW2_StataCode.do`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/0983efbc447b6b73308c931fc533ca5e1bc3adf3/HW2_StataCode.do) 
   <br />**Description:** 
   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. The assignment provided me with insight on how heteroskedasticity errors in our regression can influence our model. Further on in the assignment I apply the Park's Test, White's Test, WLS corrections and FGLS re-estimations.
 
@@ -79,7 +80,6 @@
 
   ### **Tech Support Organization Excel**
    <br />**Excel File:** [`TechSupport.xlsx`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Copy%20of%20Lee_EXP19_Excel_Ch04_Cap_TechSupport.xlsx) 
-   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is an excel file on *Expenses*, which tracks my personal expenses. 
    <br />**PDF File:** [`TechSupport.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/TechSupport.pdf)
    <br />**Description:**
    <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is an excel file on *Technical Support Calls* within a company. The data has about 100 samples with 8 observations each. The observations include: incident number, date created, last name, agent name, computer ID, description, status, and date resolved. Originally the data was completely raw with no formatting. The following edits I made include: freezing planes, table formatting, removal of duplicate records, adding a duration column with the appropriate formula, multiple levels of alphabetical and description sorting, conditional formatting, and inserting sparklines and page breaks. The excel file attached above is an interactive excel sheet that can sort through the data from editting the sorting levels if need be in the future.

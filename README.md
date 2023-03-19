@@ -4,8 +4,8 @@
   
    Hi, I’m Jonathan.
    <br /> I'm a Mathematics and Economics student at Western Washington University and am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization. My personal interests include analyzing data, developing accessible and inclusive communities, assessing public policy implications, and learning personal finance strategies. During my studies, I have acquired technical experience in Excel, Stata, Rstudio, and Tableau.
+  <br />
   <br />My knowledge of data analytics includes but is not limited to:
-
  - Probability and Statistical Inferences:
    - Multiple Linear Regression
    - Binomial Distribution
@@ -13,7 +13,6 @@
    - F-Distribution
    - Chi-Squared Distribution
    - Conditional Probability
-   
  - Econometrics:
    - Gaussian Distribution
    - Run's Test
@@ -26,8 +25,6 @@
    - Binary Logistic Regressions
    - Data Cleaning
    - Data Visualization
- 
-
 
   <br />This is a repository to showcase analytical skills and share recent projects.
   
@@ -43,7 +40,7 @@
   - [**Show Case of Related Projects**](#show-case-of-related-projects)
     + [Excel Projects](#excel-projects)
     + [Course Notes](#course-notes)
-    + [Papers Written for Economic Courses](#papers-written-for-economic-courses]
+    + [Economic Papers](#economic-papers)
   - [**Resume**](#resume)
   - [**Contact**](#contact)
   
@@ -95,7 +92,7 @@
    + ### ***Notes on Differential Equations:*** [331 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/331%20Notes.pdf)
    + ### ***Notes on Notes on Limits and Infinite Series:*** [226 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/226%20Notes.pdf)
    + ### ***Notes on Intermediate Microeconomics:*** [306 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/306%20Notes.pdf)
- - ### **Final Papers Written for Economics Courses**
+ - ### **Economic Papers**
    + ### ***A Solow Model Alternative:*** [407 Final Paper.pdf]
    + ### ***The US Response to China's National Security Law Explained:*** [491 Final Paper.pdf]
 

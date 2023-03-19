@@ -3,8 +3,8 @@
   ## **About**
   
    Hi, I’m Jonathan. I'm currently a Mathematics & Economics student at Western Washington University. 
-  <br />During my studies, I have acquired technical experience in Stata, Rstudio, Tableau, and a deep understanding of Excel. I've also gained skills in community engagement and professional communication through my role as the WWU Mathematics Department Student Ambassador.
-  <br />My personal interests include accessible and inclusive community development, public policy, data analytics, personal-finance, and note-taking. I've included several of these off-topic projects in the last section of this repository.
+  <br />My personal interests include everything bike related, building PC's, custom keyboards, audio engineering, physics and personal finance.
+  <br />During my studies, I have acquired technical skills in Stata, Rstudio, Tableau, and a deep understanding of Excel.
   <br />My knowledge of data analytics includes but is not limited to:
 
  - Probability and Statistical Inferences:
@@ -25,11 +25,11 @@
    - Weighted Least Squares
    - Maximum Likelihood Estimations
    - Binary Logistic Regressions
-   - Data Cleaning
-   - Data Visualization
-   
-   I am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization.
-   
+  
+ 
+ - Data Cleaning
+ - Data Visualization
+ - I am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization.
   <br />This is a repository to showcase analytical skills and share recent projects.
   
   ---
@@ -41,10 +41,16 @@
     + [Final Project Correlations Between House Features and Price in King County](#final-project-correlations-between-house-features-and-price-in-king-county)
   - [**Econometrics Projects**](#econometrics-projects)
     + [Homework 2](#homework-2)
-    + [Homework 
-  - [**Excel Projects**](#excel-projects)
+    + [Homework 5](#homework-5)
+  - [Show Case of Related Projects](#other-projects)
+    + [**Excel Projects**](#excel-projects)
     + [Personal Monthly Expense Excel](#personal-monthly-expense-excel)
     + [Tech Support Organization Excel](#tech-support-organization-excel)
+    + [**Course Notes**](#note-taking)
+    + [Notes on Math 331: Differential Equations](#331-notes)
+    + [Notes on Math 226: Limits and Infinite Series](#226-notes)
+    + [Notes on Intermediate Econ 306: Intermediate Microeconomics](#306-notes)
+  - 
   - [**Resume**](#resume)
   - [**Contact**](#contact)
  ## **Statistics Projects**
@@ -74,20 +80,29 @@
  <br />**Do-File:** [`HW2_StataCode.do`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/0983efbc447b6b73308c931fc533ca5e1bc3adf3/HW2_StataCode.do) 
   <br />**Description:** 
   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. The assignment provided me with insight on how heteroskedasticity errors in our regression can influence our model. Further on in the assignment I apply the Park's Test, White's Test, WLS corrections and FGLS re-estimations.
+### **Homework 5**
+ <br />**PDF:** [`Homework 5`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/fd4b966ba432ee4156e7beafc7b05aa23d445f1f/475HW5.pdf)
+ <br />**Do-File:** [`hw5stata.do`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/fd4b966ba432ee4156e7beafc7b05aa23d445f1f/hw5stata.do) 
+  <br />**Description:** 
+  <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. I explored panel data by using pooled OLS a fixed effects regression to interpret for when my predictor variables are correlated to my error terms.
 
- ## **Excel Projects**
-  ### **Personal Monthly Expense Excel**
+ ## **Show Case of Related Projets**
+  ### **Excel Projects**
+  #### **Personal Monthly Expense Excel**
    <br />**Excel File:** [`Expenses.xlsx`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.xlsx) 
    <br />**PDF File:** [`Expenses.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.pdf)
    <br />**Description:**
    <br /> &nbsp; &nbsp; &nbsp; &nbsp; As I mentioned above, I have an strong interest in personal finance. Achieving and maintaining financial independence with minimal to no debts has been a goal of mine since I was in elementary school. Using my experience in Excel, I built a personal monthly expense tracker to help me visualize my spending to ensure that I am on track to save every month. This Excel file is not meant to categorize all of my purchases but rather be a general summary of my income vs my expenses. This project includes table formatting, conditional formatting, sparklines, and a pie chart using multiple series. Once more data on my expenses are collected, I plan to incorporate detailed breakdowns of each section in my summary and credit card statements using .csv files, an annual summary sheet, and utilize more percentage functions.
-
-  ### **Tech Support Organization Excel**
+  #### **Tech Support Organization Excel**
    <br />**Excel File:** [`TechSupport.xlsx`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Copy%20of%20Lee_EXP19_Excel_Ch04_Cap_TechSupport.xlsx) 
    <br />**PDF File:** [`TechSupport.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/TechSupport.pdf)
    <br />**Description:**
    <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is an excel file on *Technical Support Calls* within a company. The data has about 100 samples with 8 observations each. The observations include: incident number, date created, last name, agent name, computer ID, description, status, and date resolved. Originally the data was completely raw with no formatting. The following edits I made include: freezing planes, table formatting, removal of duplicate records, adding a duration column with the appropriate formula, multiple levels of alphabetical and description sorting, conditional formatting, and inserting sparklines and page breaks. The excel file attached above is an interactive excel sheet that can sort through the data from editting the sorting levels if need be in the future.
-   
+  ### **Course Notes**
+   <br />**Notes on Math 331: Differential Equations** [`VOID`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.pdf)
+   <br />**Notes on Math 331: Notes on Math 226: Limits and Infinite Series** [`VOID`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.pdf)
+   <br />**Notes on Intermediate Econ 306: Intermediate Microeconomics** [`VOID`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.pdf)
+
    # **Resume** 
    [`Jonathan_Lee_Resume.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Jonathan_Lee_Resume.pdf)
   <br />

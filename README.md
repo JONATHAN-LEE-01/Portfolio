@@ -3,8 +3,8 @@
   ## **About**
   
    Hi, I’m Jonathan. I'm currently a Mathematics & Economics student at Western Washington University. 
-  <br />My personal interests include everything bike related, building PC's, custom keyboards, audio engineering, physics and personal finance.
-  <br />During my studies, I have acquired technical skills in Stata, Rstudio, Tableau, and a deep understanding of Excel.
+  <br />During my studies, I have acquired technical experience in Stata, Rstudio, Tableau, and a deep understanding of Excel. I've also gained skills in community engagement and professional communication through my role as the WWU Mathematics Department Student Ambassador.
+  <br />My personal interests include accessible and inclusive community development, public policy, data analytics, personal-finance, and note-taking. I've included several of these off-topic projects in the last section of this repository.
   <br />My knowledge of data analytics includes but is not limited to:
 
  - Probability and Statistical Inferences:
@@ -28,7 +28,8 @@
    - Data Cleaning
    - Data Visualization
    
- - I am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization.
+   I am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization.
+   
   <br />This is a repository to showcase analytical skills and share recent projects.
   
   ---

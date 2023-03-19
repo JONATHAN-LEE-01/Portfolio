@@ -25,10 +25,9 @@
    - Weighted Least Squares
    - Maximum Likelihood Estimations
    - Binary Logistic Regressions
-  
- 
- - Data Cleaning
- - Data Visualization
+   - Data Cleaning
+   - Data Visualization
+   
  - I am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization.
   <br />This is a repository to showcase analytical skills and share recent projects.
   

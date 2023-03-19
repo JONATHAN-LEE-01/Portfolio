@@ -93,8 +93,8 @@
    + ### ***Notes on Notes on Limits and Infinite Series:*** [226 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/226%20Notes.pdf)
    + ### ***Notes on Intermediate Microeconomics:*** [306 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/306%20Notes.pdf)
  - ### **Economic Papers**
-   + ### ***A Solow Model Alternative:*** [407 Final Paper.pdf]
-   + ### ***The US Response to China's National Security Law Explained:*** [491 Final Paper.pdf]
+   + ### ***A Solow Model Alternative:*** [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
+   + ### ***The US Response to China's National Security Law Explained:*** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
 
  ## **Resume** 
    [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Jonathan_Lee_Resume.pdf)

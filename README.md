@@ -2,10 +2,8 @@
 
   ## **About**
   
-   Hi, I’m Jonathan. I'm a Mathematics & Economics student at Western Washington University.
-   <br /> Currently, I'm expanding my mathematical and computer science comprehension in Non-Linear Optimization.
-  <br />My personal interests include everything bike related, building PC's, custom keyboards, audio engineering, physics and personal finance.
-  <br />During my studies, I have acquired technical skills in Stata, Rstudio, Tableau, and a deep understanding of Excel.
+   Hi, I’m Jonathan.
+   <br /> I'm a Mathematics and Economics student at Western Washington University and am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization. My personal interests include analyzing data, developing accessible and inclusive communities, assessing public policy implications, and learning personal finance strategies. During my studies, I have acquired technical experience in Excel, Stata, Rstudio, and Tableau.
   <br />My knowledge of data analytics includes but is not limited to:
 
  - Probability and Statistical Inferences:
@@ -26,16 +24,15 @@
    - Weighted Least Squares
    - Maximum Likelihood Estimations
    - Binary Logistic Regressions
-  
+   - Data Cleaning
+   - Data Visualization
  
- - Data Cleaning
- - Data Visualization
+
 
   <br />This is a repository to showcase analytical skills and share recent projects.
   
   ---
   ## **Table of Contents**
-  - [**About**](#about)
   - [**Statistics Projects**](#statistics-projects)
     + [Real Estate Appraisal Analysis](#real-estate-appraisal-analysis)
     + [Analysis of Descrepancies in Professor Salaries](#analysis-of-descrepancies-in-professor-salaries)
@@ -46,6 +43,7 @@
   - [**Show Case of Related Projects**](#show-case-of-related-projects)
     + [Excel Projects](#excel-projects)
     + [Course Notes](#course-notes)
+    + [Papers Written for Economic Courses](#papers-written-for-economic-courses]
   - [**Resume**](#resume)
   - [**Contact**](#contact)
   
@@ -97,6 +95,9 @@
    + ### ***Notes on Differential Equations:*** [331 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/331%20Notes.pdf)
    + ### ***Notes on Notes on Limits and Infinite Series:*** [226 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/226%20Notes.pdf)
    + ### ***Notes on Intermediate Microeconomics:*** [306 Notes.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/6e8bb8be810d2fbc8c2712aa1bd43076269dcc30/306%20Notes.pdf)
+ - ### **Final Papers Written for Economics Courses**
+   + ### ***A Solow Model Alternative:*** [407 Final Paper.pdf]
+   + ### ***The US Response to China's National Security Law Explained:*** [491 Final Paper.pdf]
 
  ## **Resume** 
    [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Jonathan_Lee_Resume.pdf)

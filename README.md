@@ -17,16 +17,19 @@
    
  - Econometrics:
    - Gaussian Distribution
-   - Generalized Least Squares
-   - White's Test/Correction
-   - Weighted Least Squares
    - Run's Test
+   - White's Test/Correction
    - Durbin-Watson Autocorrelation Test
    - Cochrane-Orcutt Procedure
+   - Generalized Least Squares
+   - Weighted Least Squares
+   - Maximum Likelihood Estimations
+   - Binary Logistic Regressions
+  
  
  - Data Cleaning
  - Data Visualization
- - I am currently expanding my mathematical and computer science comprehension in Differential Equations.
+ - I am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization.
   <br />This is a repository to showcase analytical skills and share recent projects.
   
   ---
@@ -38,6 +41,7 @@
     + [Final Project Correlations Between House Features and Price in King County](#final-project-correlations-between-house-features-and-price-in-king-county)
   - [**Econometrics Projects**](#econometrics-projects)
     + [Homework 2](#homework-2)
+    + [Homework 
   - [**Excel Projects**](#excel-projects)
     + [Personal Monthly Expense Excel](#personal-monthly-expense-excel)
     + [Tech Support Organization Excel](#tech-support-organization-excel)

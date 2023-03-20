@@ -84,12 +84,12 @@
    <br />****Description:****
    <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is an excel file on *Technical Support Calls* within a company. The data has about 100 samples with 8 observations each. The observations include: incident number, date created, last name, agent name, computer ID, description, status, and date resolved. Originally the data was completely raw with no formatting. The following edits I made include: freezing planes, table formatting, removal of duplicate records, adding a duration column with the appropriate formula, multiple levels of alphabetical and description sorting, conditional formatting, and inserting sparklines and page breaks. The excel file attached above is an interactive excel sheet that can sort through the data from editting the sorting levels if need be in the future.
  - ### **Course Notes**
-   + ### ***Notes on Differential Equations:*** [331 Notes.pdf](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
-   + ### ***Notes on Notes on Limits and Infinite Series:*** [226 Notes.pdf](https://web.goodnotes.com/s/YYaXGBXxSNWvx1FXzdchBC#page-1)
-   + ### ***Notes on Intermediate Microeconomics:*** [306 Notes.pdf](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
+   + ### *Notes on Differential Equations:* [331 Notes.pdf](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
+   + ### *Notes on Notes on Limits and Infinite Series:* [226 Notes.pdf](https://web.goodnotes.com/s/YYaXGBXxSNWvx1FXzdchBC#page-1)
+   + ### *Notes on Intermediate Microeconomics:* [306 Notes.pdf](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
  - ### **Economic Papers**
-   + ### ***A Solow Model Alternative:*** [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
-   + ### ***The US Response to China's National Security Law Explained:*** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
+   + ### *A Solow Model Alternative:* [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
+   + ### *The US Response to China's National Security Law Explained:* [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
 
  ## **Resume** 
    [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/f922686534031d6f844611e888bd7c71574b2ddd/LISC%20Internship%20Resume.pdf)

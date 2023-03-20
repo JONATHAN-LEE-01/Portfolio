@@ -97,7 +97,7 @@
   <br />
   <br />
  ## **Contact**
-   - E-mail: jonathandlee0120@gmail.com
+   - E-mail: jondeanlee@gmail.com
    <br />
    <br />
    <br />

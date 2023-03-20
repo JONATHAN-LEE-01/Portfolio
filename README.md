@@ -38,7 +38,7 @@
     + [Homework 2](#homework-2)
     + [Homework 5](#homework-5)
   - [**Show Case of Related Projects**](#show-case-of-related-projects)
-    + [Excel Projects](#excel-projects)
+    + [Excel](#excel)
     + [Course Notes](#course-notes)
     + [Economic Papers](#economic-papers)
   - [**Resume**](#resume)
@@ -74,15 +74,10 @@
  <br />****PDF:**** [`Homework 5`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/fd4b966ba432ee4156e7beafc7b05aa23d445f1f/475HW5.pdf)
  <br />****Do-File:**** [`hw5stata.do`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/fd4b966ba432ee4156e7beafc7b05aa23d445f1f/hw5stata.do) 
   <br />****Description:**** 
-  <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. I explored panel data by using pooled OLS a fixed effects regression to interpret for when my predictor variables are correlated to my error terms.
+  <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. I explored panel data by applying my knowledge in pooled OLS and fixed effects regressions to interpret when the predictor variables are correlated to the error terms.
 
  ## **Show Case of Related Projects**
- - ### **Excel-Projects**
-   + ### ***Personal Monthly Expense Excel***
-   <br />****Excel File:**** [`Expenses.xlsx`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.xlsx) 
-   <br />****PDF File:**** [`Expenses.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Expenses.pdf)
-   <br />****Description:****
-   <br /> &nbsp; &nbsp; &nbsp; &nbsp; As I mentioned above, I have an strong interest in personal finance. Achieving and maintaining financial independence with minimal to no debts has been a goal of mine since I was in elementary school. Using my experience in Excel, I built a personal monthly expense tracker to help me visualize my spending to ensure that I am on track to save every month. This Excel file is not meant to categorize all of my purchases but rather be a general summary of my income vs my expenses. This project includes table formatting, conditional formatting, sparklines, and a pie chart using multiple series. Once more data on my expenses are collected, I plan to incorporate detailed breakdowns of each section in my summary and credit card statements using .csv files, an annual summary sheet, and utilize more percentage functions.
+ - ### **Excel**
    + ### ***Tech Support Organization Excel***
    <br />****Excel File:**** [`TechSupport.xlsx`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Copy%20of%20Lee_EXP19_Excel_Ch04_Cap_TechSupport.xlsx) 
    <br />****PDF File:**** [`TechSupport.pdf`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/TechSupport.pdf)

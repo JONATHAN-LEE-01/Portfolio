@@ -92,7 +92,7 @@
    + ### ***The US Response to China's National Security Law Explained:*** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
 
  ## **Resume** 
-   [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/main/Jonathan_Lee_Resume.pdf)
+   [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/f922686534031d6f844611e888bd7c71574b2ddd/LISC%20Internship%20Resume.pdf)
   <br />
   <br />
   <br />

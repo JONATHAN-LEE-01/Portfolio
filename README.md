@@ -39,7 +39,7 @@
     + [Homework 5](#homework-5)
     + [Research Paper](#research-paper)
   - [**Show Case of Related Works**](#show-case-of-related-works)
-    + [Economic Papers](#economic-papers)
+    + [Papers](#papers)
     + [Course Notes](#course-notes)
   - [**Resume**](#resume)
   - [**Contact**](#contact)
@@ -82,7 +82,7 @@
   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is a working paper on identifying the factors that influence a recent WWU undergraduate's probability of obtaining any number of job offers after graduation. It uses survey data collected in 2010 by my Econometrics 475 professor John Krieg. I adapt Professor Denise Jackson's research in her paper, "Factors Influencing Job Attainment in Recent Undergraduates" to construct the approach in my analysis. I attempt to create composite variables using Krieg's data that fit the description of factors that Jackson identified in her research. I use a logit regression to identify the odds ratio and marginal effects of the robust regression to identify the change in odds given a one unit change in a predictor variable. This research is incomplete as it has not resolved the issue of the large presence of heteroskedasticity amongst the predictor variables.
 
  ## **Show Case of Related Works**
- - ### **Final Papers for Economic Courses**
+ - ### **Papers**
    + ### *A Solow Model Alternative:* [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
    + ### *The US Response to China's National Security Law Explained:* [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
  - ### **Course Notes**

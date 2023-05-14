@@ -92,7 +92,7 @@
 
 
  ## **Resume** 
-   [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/f922686534031d6f844611e888bd7c71574b2ddd/LISC%20Internship%20Resume.pdf)
+   [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/4e836b7c365adac3c381419580a235aa72f76a4b/Jonathan%20Lee%20-%20Resume.pdf)
   <br />
   <br />
   <br />

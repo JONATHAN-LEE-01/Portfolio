@@ -75,6 +75,11 @@
  <br />****Do-File:**** [`hw5stata.do`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/fd4b966ba432ee4156e7beafc7b05aa23d445f1f/hw5stata.do) 
   <br />****Description:**** 
   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This homework was assigned from Econometrics 475 at WWU. I explored panel data by applying my knowledge in pooled OLS and fixed effects regressions to interpret when the predictor variables are correlated to the error terms.
+### ***Research Paper***
+ <br />****PDF:**** [`Working Paper`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/62012ba95f58882fa4877ebbe05670290c84925d/475%20Working%20Paper.pdf)
+ <br />****Do-File:**** [`475DataAnalysis.do`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/62012ba95f58882fa4877ebbe05670290c84925d/475DataAnalysis.do)
+  <br />****Description:**** 
+  <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is a working paper on identifying the factors that influence a recent WWU undergraduate's probability of obtaining any number of job offers after graduation. It uses survey data collected in 2010 by my Econometrics 475 professor John Krieg. I adapt Professor Denise Jackson's research in her paper, "Factors Influencing Job Attainment in Recent Undergraduates" to construct the approach in my analysis. I attempt to create composite variables using Krieg's data that fit the description of factors that Jackson identified in her research. I use a logit regression to identify the odds ratio and marginal effects of the robust regression to identify the change in odds given a one unit change in a predictor variable. This research is incomplete as it has not resolved the issue of the large presence of heteroskedasticity amongst the predictor variables.
 
  ## **Show Case of Related Projects**
  - ### **Excel**

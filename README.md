@@ -83,12 +83,12 @@
 
  ## **Show Case of Related Works**
  - ### **Papers**
-   + ### *A Solow Model Alternative:* [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
-   + ### *The US Response to China's National Security Law Explained:* [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
+   + ### ****A Solow Model Alternative:**** [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
+   + ### ****The US Response to China's National Security Law Explained:**** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
  - ### **Course Notes**
-   + ### *Notes on Differential Equations:* [331 Notes.pdf](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
-   + ### *Notes on Notes on Limits and Infinite Series:* [226 Notes.pdf](https://web.goodnotes.com/s/YYaXGBXxSNWvx1FXzdchBC#page-1)
-   + ### *Notes on Intermediate Microeconomics:* [306 Notes.pdf](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
+   + ### ****Notes on Differential Equations:**** [331 Notes.pdf](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
+   + ### ****Notes on Notes on Limits and Infinite Series:**** [226 Notes.pdf](https://web.goodnotes.com/s/YYaXGBXxSNWvx1FXzdchBC#page-1)
+   + ### ****Notes on Intermediate Microeconomics:**** [306 Notes.pdf](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
 
 
  ## **Resume** 

@@ -107,7 +107,7 @@
   <br />
   <br />
  ## **Contact**
-   - E-mail: leej207@wwu.edu
+   - E-mail: jondeanlee@gmail.com
    <br />
    <br />
    <br />

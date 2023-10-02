@@ -46,6 +46,7 @@
     + [Homework 2](#homework-2)
     + [Homework 5](#homework-5)
     + [Research Paper](#research-paper)
+  - [**Non-Linear Optimization Projects**](#non-linear-optimization-projects)
   - [**Show Case of Related Works**](#show-case-of-related-works)
     + [Papers](#papers)
     + [Course Notes](#course-notes)

@@ -115,7 +115,7 @@
 
 
  ## **Resume** 
-   [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/4e836b7c365adac3c381419580a235aa72f76a4b/Jonathan%20Lee%20-%20Resume.pdf)
+   [`Jonathan Lee Resume`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/533e7d72f330aeb753310a35cf05cafe1672197d/General%20Resume.pdf)
   <br />
   <br />
   <br />

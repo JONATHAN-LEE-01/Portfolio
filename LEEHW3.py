@@ -170,7 +170,7 @@ inputs:
         grad - norm of the gradient at newx
 """
 
-"""
+
 def myPR(x, func, tol):
     global newx, nfunc, gradnorm
     maxiter = 1000  # Maximum number of iterations
@@ -202,4 +202,3 @@ def myPR(x, func, tol):
         # UpdAte x
         x = newx
     return newx, nfunc, gradnorm
-"""

@@ -94,11 +94,11 @@
    + ### ****A Solow Model Alternative:**** [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
    + ### ****The US Response to China's National Security Law Explained:**** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
  - ### **Course Notes**
-   + [Notes on Math 226:Limits and Infinite Series (Math 226)](https://share.goodnotes.com/s/atxQISuAqVv9ExN0mZO9io)
+   + [Notes on Math 226: Limits and Infinite Series (Math 226)](https://share.goodnotes.com/s/atxQISuAqVv9ExN0mZO9io)
    + [Notes on Math 331: Differential Equations (Math 331)](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
    + [Notes on Math 432: Systems of Differential Equations (Math 432)](https://share.goodnotes.com/s/D7jG0tRfflVeCstb9GzDsa)
    + [Notes on Math 435: Non-Linear Optimization](https://share.goodnotes.com/s/VFTZBu11PZGDUwMSCEld2P)
-   + [Notes on Intermediate Microeconomics](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
+   + [Notes on Econ 306: Intermediate Microeconomics](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
 
 
  ## **Resume** 

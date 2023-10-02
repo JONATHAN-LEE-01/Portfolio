@@ -89,14 +89,26 @@
   <br />****Description:**** 
   <br /> &nbsp; &nbsp; &nbsp; &nbsp; This is a working paper on identifying the factors that influence a recent WWU undergraduate's probability of obtaining any number of job offers after graduation. It uses survey data collected in 2010 by my Econometrics 475 professor John Krieg. I adapt Professor Denise Jackson's research in her paper, "Factors Influencing Job Attainment in Recent Undergraduates" to construct the approach in my analysis. I attempt to create composite variables using Krieg's data that fit the description of factors that Jackson identified in her research. I use a logit regression to identify the odds ratio and marginal effects of the robust regression to identify the change in odds given a one unit change in a predictor variable. This research is incomplete as it has not resolved the issue of the large presence of heteroskedasticity amongst the predictor variables.
 
+ ## **Non-Linear Optimization Projects**
+  ### ***Implementing Test Functions***
+ <br />****My Quadratic Function:**** [`myQuad.py`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/80b3ae95542e2b92570a3efb296e6710e790949a/myQuad.py)
+ <br />****Booth Test Function**** [`myBooth.py`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/80b3ae95542e2b92570a3efb296e6710e790949a/myBooth.py)
+ <br />****Beale Test Function**** [`myBeale.py`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/80b3ae95542e2b92570a3efb296e6710e790949a/myBeale.py)
+ <br />****N-D Perm Test Function**** [`myPerm.py`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/80b3ae95542e2b92570a3efb296e6710e790949a/myPerm.py)
+ <br />****Rosenbrock Test Function**** [`myRosenbrock.py`](https://github.com/JONATHAN-LEE-01/Portfolio/blob/80b3ae95542e2b92570a3efb296e6710e790949a/myRosenbrock.py)
+ 
+  <br />****Description:**** 
+  <br /> &nbsp; &nbsp; &nbsp; &nbsp; The culmination of several assignments in Math 435: Non-Linear Optimization. Its purpose is to generate code to test the algorithms that we developed throughout the course. Specifically, we wrote code that serves as a "black box" test function. This code is comprised of the following functions, [r,g]=myQuad(x,Q,b) and [r,g]=myBooth(x), [r,g]=myBeale, [r,g]=myBooth, [r,g]=myPerm, [r,g]=myRosenbrock. Each of these functions utilize different optimization methods, theorems, and techniques to approximate the global minimum or maximum. 
+  
  ## **Show Case of Related Works**
  - ### **Papers**
    + ### ****A Solow Model Alternative:**** [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
    + ### ****The US Response to China's National Security Law Explained:**** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
+   + ### ****Hong Kong: The Duality of Foreign Domestic Workers**** [462FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/8ec4df5fe296569262bed0b6db50cbb0c1e0b525/462%20Final%20Paper.pdf)
  - ### **Course Notes**
-   + [Notes on Math 226: Limits and Infinite Series (Math 226)](https://share.goodnotes.com/s/atxQISuAqVv9ExN0mZO9io)
-   + [Notes on Math 331: Differential Equations (Math 331)](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
-   + [Notes on Math 432: Systems of Differential Equations (Math 432)](https://share.goodnotes.com/s/D7jG0tRfflVeCstb9GzDsa)
+   + [Notes on Math 226: Limits and Infinite Series](https://share.goodnotes.com/s/atxQISuAqVv9ExN0mZO9io)
+   + [Notes on Math 331: Differential Equations](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
+   + [Notes on Math 432: Systems of Differential Equations](https://share.goodnotes.com/s/D7jG0tRfflVeCstb9GzDsa)
    + [Notes on Math 435: Non-Linear Optimization](https://share.goodnotes.com/s/VFTZBu11PZGDUwMSCEld2P)
    + [Notes on Econ 306: Intermediate Microeconomics](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
 

@@ -3,7 +3,7 @@
   ## **About**
   
    Hi, I’m Jonathan.
-   <br /> I'm a Mathematics and Economics student at Western Washington University and am currently expanding my mathematical and computer science comprehension in Non-Linear Optimization. My personal interests include analyzing data, developing accessible and inclusive communities, assessing public policy implications, and learning personal finance strategies. During my studies, I have acquired technical experience in Excel, Stata, Rstudio, and Tableau.
+   <br /> I'm a soon to be graduate with a bachelor's degree in Mathematics and Economics from Western Washington University. I'm currently expanding my technical support comprehension in Active Directory, Microsoft System Center Configuration Manager (SCCM), and Bomgar remote software. My personal interests include analyzing data, developing accessible and inclusive communities, assessing public policy implications, and learning personal finance strategies. During my studies, I have acquired technical experience in Excel, Stata, Rstudio, Python, MATLAB, and Tableau.
   <br />
   <br />My knowledge of data analytics includes but is not limited to:
  - Probability and Statistical Inferences:
@@ -25,6 +25,14 @@
    - Binary Logistic Regressions
    - Data Cleaning
    - Data Visualization
+ - Non-Linear Optimization:
+   - Newton Line Searches
+   - Steepest Descent
+   - Quasi-Newton Methods
+   - Conjugate Gradient Methods
+   - Lagrange Multipliers
+   - Inequality Constrained Optimization
+   - Integral Constrained Optimization
 
   <br />This is a repository to showcase analytical skills and share recent projects.
   
@@ -86,9 +94,11 @@
    + ### ****A Solow Model Alternative:**** [407FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/407FinalPaper.pdf)
    + ### ****The US Response to China's National Security Law Explained:**** [491FinalPaper.pdf](https://github.com/JONATHAN-LEE-01/Portfolio/blob/518d168ae93bbe6ede84bb97975a389044b4f390/491FinalPaper.pdf)
  - ### **Course Notes**
-   + ### ****Notes on Differential Equations:**** [331 Notes.pdf](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
-   + ### ****Notes on Notes on Limits and Infinite Series:**** [226 Notes.pdf](https://web.goodnotes.com/s/YYaXGBXxSNWvx1FXzdchBC#page-1)
-   + ### ****Notes on Intermediate Microeconomics:**** [306 Notes.pdf](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
+   + [Notes on Math 226:Limits and Infinite Series (Math 226)](https://share.goodnotes.com/s/atxQISuAqVv9ExN0mZO9io)
+   + [Notes on Math 331: Differential Equations (Math 331)](https://web.goodnotes.com/s/MgL6vsqzjeRuuKqYMAW8ol#page-1)
+   + [Notes on Math 432: Systems of Differential Equations (Math 432)](https://share.goodnotes.com/s/D7jG0tRfflVeCstb9GzDsa)
+   + [Notes on Math 435: Non-Linear Optimization](https://share.goodnotes.com/s/VFTZBu11PZGDUwMSCEld2P)
+   + [Notes on Intermediate Microeconomics](https://web.goodnotes.com/s/aV0mrgGnEl8dT7VN2rEAMK#page-1)
 
 
  ## **Resume** 

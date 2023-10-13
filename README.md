@@ -3,7 +3,7 @@
   ## **About**
   
    Hi, I’m Jonathan.
-   <br /> I'm a soon to be graduate with a bachelor's degree in Mathematics and Economics from Western Washington University. I'm currently expanding my technical support comprehension in Active Directory, Microsoft System Center Configuration Manager (SCCM), and Bomgar remote software. My personal interests include analyzing data, developing accessible and inclusive communities, assessing public policy implications, and learning personal finance strategies. During my studies, I have acquired technical experience in Excel, Stata, Rstudio, Python, MATLAB, and Tableau.
+   <br /> I graduated with a bachelor's degree in Mathematics and Economics from Western Washington University. I'm currently expanding my technical support comprehension in Active Directory, Microsoft System Center Configuration Manager (SCCM), and Bomgar remote software. My personal interests include analyzing data, developing accessible and inclusive communities, assessing public policy implications, and learning finance strategies. During my studies, I have acquired technical experience in Excel, Stata, Rstudio, Python, MATLAB, and Tableau.
   <br />
   <br />My knowledge of data analytics includes but is not limited to:
  - Probability and Statistical Inferences:
